@@ -83,8 +83,6 @@ We evaluated multiple algorithms:
 * **Scikit-learn** (for preprocessing)
 * **Matplotlib/Seaborn** (for EDA)
 
----
-
 
 ---
 
